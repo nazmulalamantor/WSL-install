@@ -1,0 +1,12 @@
+First download from microsoft store to windows subsystem for linux
+pls open command prompt
+# Type bellow commnad
+wsl --install -d kali-linux
+
+# WSL Login
+wsl -d kali-linux -u username (Type CMD)
+
+# update your system
+sudo apt update
+sudo apt upgrade
+
